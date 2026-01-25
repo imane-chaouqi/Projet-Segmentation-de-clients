@@ -3,6 +3,7 @@
 Auteur : Imane Chaouqi  
 Étudiante en sciences de données et Intelligence Artificielle  
 LinkedIn : https://www.linkedin.com/in/imane-chaouqi-04b57128a
+
 GitHub : https://github.com/imane-chaouqi
 
 
