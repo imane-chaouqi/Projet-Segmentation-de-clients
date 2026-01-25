@@ -2,8 +2,7 @@
 
 Auteur : Imane Chaouqi  
 Étudiante en sciences de données et Intelligence Artificielle  
-LinkedIn : https://www.linkedin.com/in/imane-chaouqi-04b57128a 
-
+LinkedIn : https://www.linkedin.com/in/imane-chaouqi-04b57128a
 GitHub : https://github.com/imane-chaouqi
 
 
@@ -58,7 +57,9 @@ Chaque segment a été interprété afin de proposer une compréhension claire d
 <img width="1197" height="783" alt="méthode de coude" src="https://github.com/user-attachments/assets/e801fabd-6fcf-4a31-8768-5cad45a95dbd" />
 
 ### Segmentation des clients
-![Clusters](segmentation des clients.png)
+<img width="800" height="600" alt="segmentation des clients" src="https://github.com/user-attachments/assets/a0aaa3fc-6ddf-495a-b885-1a2b0287e73e" />
+
 
 ### Analyse des clusters
-![Cluster Analysis](tableau d'analyse des clusters)
+<img width="711" height="207" alt="tableau d&#39;analyse des clusters" src="https://github.com/user-attachments/assets/04c0cc0b-c372-455b-8061-3eec379a5739" />
+
