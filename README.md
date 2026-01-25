@@ -59,8 +59,8 @@ Chaque segment a été interprété afin de proposer une compréhension claire d
 
 
 ### Segmentation des clients
-![Segmentation des clients](images/segmentation des clients.png)
 
+<img width="900" height="500" alt="segmentation des clients" src="https://github.com/user-attachments/assets/11c71e48-6c5e-4166-98a0-9d79153f0f69" />
 
 
 ### Analyse des clusters
