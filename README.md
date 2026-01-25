@@ -55,9 +55,11 @@ Chaque segment a été interprété afin de proposer une compréhension claire d
 ## Visualisations des résultats obtenues : 
 
 ### Méthode du coude
-<img width="1092" height="730" alt="méthode de coude" src="https://github.com/user-attachments/assets/9eed6ba2-0c7f-47e1-abd7-1a73c365e41c" />
+<img width="900" height="500" alt="méthode de coude" src="https://github.com/user-attachments/assets/02e208d2-d47f-489f-b90d-3b23b25aaa0f" />
+
+
 ### Segmentation des clients
-<img width="800" height="600" alt="segmentation des clients" src="https://github.com/user-attachments/assets/a0aaa3fc-6ddf-495a-b885-1a2b0287e73e" />
+<img width="900" height="500" alt="segmentation des clients" src="https://github.com/user-attachments/assets/9f6ebd23-780d-41d9-b55f-ff381a595882" />
 
 
 ### Analyse des clusters
