@@ -55,7 +55,7 @@ Chaque segment a été interprété afin de proposer une compréhension claire d
 ## Visualisations des résultats obtenues : 
 
 ### Méthode du coude
-![Elbow Method](méthode de coude.png)
+<img width="1197" height="783" alt="méthode de coude" src="https://github.com/user-attachments/assets/e801fabd-6fcf-4a31-8768-5cad45a95dbd" />
 
 ### Segmentation des clients
 ![Clusters](segmentation des clients.png)
