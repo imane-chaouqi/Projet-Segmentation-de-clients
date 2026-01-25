@@ -38,10 +38,10 @@ Ces parties ont été réalisées par d’autres membres de l’équipe.
 
 À partir du tableau d’analyse (cluster_analysis) et des visualisations, j’ai identifié :
 
-###- Groupe 1 : clients à faible pouvoir d’achat et faible consommation. 
-###- Groupe 2 : clients premium à forte valeur.
-###- Groupe 3 : jeunes consommateurs impulsifs.
-###- Groupe 4 : clients à fort potentiel mais peu engagés.
+### - Groupe 1 : clients à faible pouvoir d’achat et faible consommation. 
+### - Groupe 2 : clients premium à forte valeur.
+### - Groupe 3 : jeunes consommateurs impulsifs.
+### - Groupe 4 : clients à fort potentiel mais peu engagés.
 
 Chaque segment a été interprété afin de proposer une compréhension claire des profils clients.
 
