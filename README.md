@@ -1,4 +1,10 @@
-# Projet – Segmentation de clients par K-means :
+# Projet – Segmentation de clients par K-means
+
+Auteur : Imane Chaouqi  
+Étudiante en sciences de données et Intelligence Artificielle  
+LinkedIn : https://www.linkedin.com/in/imane-chaouqi-04b57128a 
+GitHub : https://github.com/ton-compte  
+
 
 Ce projet consiste à segmenter des clients à partir d’un dataset en utilisant des techniques de data analysis et de machine learning visant à regrouper les clients selon leurs comportements et caractéristiques afin d’optimiser les stratégies marketing et la prise de décision. ET ce projet a été réalisé en équipe de 4 personnes .
 
@@ -48,7 +54,7 @@ Chaque segment a été interprété afin de proposer une compréhension claire d
 ## Visualisations des résultats obtenues : 
 
 ### Méthode du coude
-
+![Elbow Method]
 
 ### Segmentation des clients
 
