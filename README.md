@@ -18,7 +18,7 @@ J’étais responsable de :
 - Application de l’algorithme K-means
 - Choix du nombre optimal de clusters (méthode du coude)
 - Interprétation des clusters obtenus
-- Analyse des profils clients et explication des segments
+- Déploiement de l'application sur Streamlit Cloud et de sa mise en production.
 
 ## Autres parties du projet
 
@@ -26,7 +26,7 @@ Le projet global comprend également :
 - Nettoyage et prétraitement des données
 - Conception et développement du dashboard avec Streamlit
 - Intégration des visualisations
-- Mise en place d'une interface interactive pour explorer les résultats de       segmentation
+- Développement du code de déploiement et configuration de l'interface Streamlit avec le test de n'importe quel client .
 
 Ces parties ont été réalisées par d’autres membres de l’équipe.
 
