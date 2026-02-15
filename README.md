@@ -5,6 +5,7 @@ Auteur : Imane Chaouqi
 
 Live app : https://projet-segmentation-de-clients-mnvmnfbo6ytbyqygrwekmd.streamlit.app/
 LinkedIn : https://www.linkedin.com/in/imane-chaouqi-04b57128a
+
 Portfolio : https://imane-chaouqi.github.io
 
 
